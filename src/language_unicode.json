@@ -1,0 +1,112 @@
+{
+  "cjkRadicalsSupplement": {
+    "language": "CJK Radicals Supplement",
+    "minUnicode": "2E80",
+    "maxUnicode": "2EFF"
+  },
+  "kangxiRadicals": {
+    "language": "Kangxi Radicals",
+    "minUnicode": "2F00",
+    "maxUnicode": "2FDF"
+  },
+  "cjkSymbolsandPunctuation": {
+    "language": "CJK Symbols and Punctuation",
+    "minUnicode": "3000",
+    "maxUnicode": "303F"
+  },
+  "cjkStrokes": {
+    "language": "CJK Strokes",
+    "minUnicode": "31C0",
+    "maxUnicode": "31EF"
+  },
+  "enclosedCJKLettersandMonths": {
+    "language": "Enclosed CJK Letters and Months",
+    "minUnicode": "3200",
+    "maxUnicode": "32FF"
+  },
+  "cjkCompatibility": {
+    "language": "CJK Compatibility",
+    "minUnicode": "3300",
+    "maxUnicode": "33FF"
+  },
+  "cjkUnifiedIdeographsExtensionA": {
+    "language": "CJK Unified Ideographs Extension A",
+    "minUnicode": "3400",
+    "maxUnicode": "3FFF"
+  },
+  "cjkUnifiedIdeographsExtensionB": {
+    "language": "CJK Unified Ideographs Extension B",
+    "minUnicode": "4000",
+    "maxUnicode": "4DBF"
+  },
+  "cjkUnifiedIdeographsA": {
+    "language": "CJK Unified Ideographs A",
+    "minUnicode": "4E00",
+    "maxUnicode": "4FFF"
+  },
+  "cjkUnifiedIdeographsB": {
+    "language": "CJK Unified Ideographs B",
+    "minUnicode": "5000",
+    "maxUnicode": "5FFF"
+  },
+  "cjkUnifiedIdeographsC": {
+    "language": "CJK Unified Ideographs C",
+    "minUnicode": "6000",
+    "maxUnicode": "6FFF"
+  },
+  "cjkUnifiedIdeographsD": {
+    "language": "CJK Unified Ideographs D",
+    "minUnicode": "7000",
+    "maxUnicode": "7FFF"
+  },
+  "cjkUnifiedIdeographsE": {
+    "language": "CJK Unified Ideographs E",
+    "minUnicode": "8000",
+    "maxUnicode": "8FFF"
+  },
+  "cjkUnifiedIdeographsF": {
+    "language": "CJK Unified Ideographs F",
+    "minUnicode": "9000",
+    "maxUnicode": "9FFF"
+  },
+  "cjkCompatibilityIdeographs": {
+    "language": "CJK Compatibility Ideographs",
+    "minUnicode": "F900",
+    "maxUnicode": "FAFF"
+  },
+  "verticalForms": {
+    "language": "Vertical Forms",
+    "minUnicode": "FE10",
+    "maxUnicode": "FE1F"
+  },
+  "cjkCompatibilityForms": {
+    "language": "CJK Compatibility Forms",
+    "minUnicode": "FE30",
+    "maxUnicode": "FE4F"
+  },
+  "japanese": {
+    "language": "Japanese",
+    "minUnicode": "3040",
+    "maxUnicode": "309F"
+  },
+  "katakana": {
+    "language": "Katakana",
+    "minUnicode": "30A0",
+    "maxUnicode": "30FF"
+  },
+  "katakanaPhoneticExtensions": {
+    "language": "Katakana Phonetic Extensions",
+    "minUnicode": "31F0",
+    "maxUnicode": "31FF"
+  },
+  "kanbun": {
+    "language": "Kanbun",
+    "minUnicode": "3190",
+    "maxUnicode": "319F"
+  },
+  "halfwidthandFullwidthForms": {
+    "language": "Halfwidth and Fullwidth Forms",
+    "minUnicode": "FF00",
+    "maxUnicode": "FFEF"
+  }
+}
